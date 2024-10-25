@@ -1,0 +1,10 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\jogl25\\jar\\gluegen-rt.jar",
+    "c:\\jogl25\\jar\\jogl-all.jar",
+    "/Users/parthantal/jogl25/**/*.jar"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true,
+  "git.ignoreLimitWarning": true
+}
